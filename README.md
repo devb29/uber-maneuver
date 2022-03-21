@@ -40,7 +40,7 @@ Yellow taxi data: https://data.cityofnewyork.us/Transportation/2014-Yellow-Taxi-
 <p>All data share the following information: passenger pick-up date and time, as well as the latitude and longitude of the pick-up. Taxi data also includes drop-off information and other transaction data. Zipcodes were retrieved from latitude and longitude using Python and, partially, Google Sheets App Script function, then added to the datasets.</p>
 
 #### **Tools**
-* Beautiful Soup and Selenium for web scraping
-* Numpy and Pandas for data manipulation
-* Scikit-learn for modeling
-* Matplotlib and Seaborn for plotting
+* Python for chunking and filtering data before importing to Google Sheets
+* Python (Geopy) for retrieving zipcodes
+* Google Sheets for EDA
+* Tableau for data visualizations
