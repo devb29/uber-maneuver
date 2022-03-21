@@ -4,6 +4,7 @@
 By Devra Alper<br>
 
 *Interact with my data on [Tableau](https://public.tableau.com/app/profile/devra2843/viz/UberManeuver/UberManuever)*
+*View my exploratory analyses on [Google Sheets](https://docs.google.com/spreadsheets/d/1dB2dYPXcaLBm-1CG_Z2v-hsiCVzvDjckjZp5VxWZfOo/edit?usp=sharing)
 
 #### **Abstract**
 <p>TLC taxi ridership has decreased since ridesharing companies like Uber have gained popularity in NYC. This trend has fluctuated during the COVID-19 pandemic. When increasing demand in 2021 was met with less Uber and taxi drivers, Uber surge pricing shifted New Yorkers towards taxis and their more stable pricing. As surge prices settle, TLC and cab companies can capitalize further by positioning their taxis in high-demand areas.</p>
