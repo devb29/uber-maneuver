@@ -13,10 +13,11 @@ By Devra Alper<br>
 <p>This analysis seeks to identify areas when and where its competitor, Uber, is picking up passengers more than taxis. The analysis is a Proof of Concept, utilizing data from one day (4/18/2014) to demonstrate its feasibility on a larger scale. This information will inform TLC of where to position its drivers as another option for passengers in these areas. Hopefully, having more visible taxis will encourage people to utilize them more, either by hailing on the street or through other taxi hailing apps.</p>
 
 *Sources:*<br>
-<p>[Uber and Lyft drivers get squeezed by high gas prices: ‘I barely broke even’](https://nypost.com/2022/03/14/uber-and-lyft-drivers-get-squeezed-by-high-gas-prices-i-barely-broke-even/), March 14, 2022<br>
+<br>
+[Uber and Lyft drivers get squeezed by high gas prices: ‘I barely broke even’](https://nypost.com/2022/03/14/uber-and-lyft-drivers-get-squeezed-by-high-gas-prices-i-barely-broke-even/), March 14, 2022<br>
 [As Uber and Lyft fares surge, NYC taxis are becoming popular again, August 27](https://www.businessinsider.com/e-hailing-taxis-curb-increasing-faster-than-uber-lyft-nyc-2021-8), 2021<br>
 [Uber and Lyft are cutting even further into the taxi market during the pandemic](https://citymonitor.ai/transport/uber-lyft-rides-during-coronavirus-pandemic-taxi-data-5232), July 20, 2021<br>
-[You Can’t Find a Cab. Uber Prices Are Soaring. Here’s Why](https://www.nytimes.com/2021/06/15/nyregion/uber-prices-rise-yellow-taxis.html), June 16, 2021</p>
+[You Can’t Find a Cab. Uber Prices Are Soaring. Here’s Why](https://www.nytimes.com/2021/06/15/nyregion/uber-prices-rise-yellow-taxis.html), June 16, 2021
 
 #### **Solution Path & Design**
 *Solution Path:*
